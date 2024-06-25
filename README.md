@@ -29,6 +29,5 @@ the data was recieved as an excel file by stakeholders
 ### share 
 
 using power BI i was able to generate the following interactive dashboard
-![Screenshot (5)](https://github.com/AbdelrahmanHemdan17/Bank-Transactions-Overview/assets/161534505/1fb56338-6ed2-4b33-8265-8b25a9b1c8ec)
-
+![Screenshot (37)](https://github.com/AbdelrahmanHemdan17/Bank-Transactions-Overview/assets/161534505/7509c90a-0891-428b-92ac-da88b501481c)
 
